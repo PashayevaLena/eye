@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(191, 201, 198);
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+input::placeholder{
+    padding: 15px 15px;
+}
